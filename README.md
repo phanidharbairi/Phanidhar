@@ -1,1 +1,1 @@
-# Phanidhar
+<h1><strong>Hi, I'm <a href="https://phanidharbairi.com">Phanidhar Bairi</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
